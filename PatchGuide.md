@@ -1,0 +1,31 @@
+# gizDuino-Patch-1.0.6
+For Any Arduino IDE
+Date Modified 080814
+
+Important notes:
+ - Install first the PL2303 Driver for gizDuino boards!
+ - PL2303 driver \[[here](http://www.prolific.com.tw/UserFiles/files/PL2303_Prolific_DriverInstaller_v1_12_0.zip)\]
+ - Patch file for 1.0.6 and below \[[here](https://github.com/e-Gizmo/gizDuino-Patch-1.0.6/archive/master.zip)\]
+ - Patch file for 1.6.9 \[[here](https://github.com/e-Gizmo/gizDuino-Patch-1.6.9/archive/master.zip)\]
+
+
+Download and add gizDuino patch
+--------
+![how to dl1](http://i.makeagif.com/media/6-21-2016/tHPa7C.gif)
+
+Uzip Compressed folder
+
+![Imgur](http://i.imgur.com/3XeIbOo.png)
+
+Copy 'gizduino-' folder
+
+![Imgur](http://i.imgur.com/nUuE9nR.png)
+
+For Windows OS
+----------
+Paste to Arduino 1.0.6 folder>harware folder>(gizduino- folder)
+
+![Imgur](http://i.imgur.com/zh6dquW.png)
+
+
+You can now open and use the Arduino IDE- Software with e-Gizmo microcontrollers!
