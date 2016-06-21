@@ -1,5 +1,5 @@
 # gizDuino-Patch-1.0.6
-For Any Arduino IDE
+For Any Arduino IDE  
 Date Modified 080814
 
 Important notes:
@@ -28,4 +28,4 @@ Paste to Arduino 1.0.6 folder>harware folder>(gizduino- folder)
 ![Imgur](http://i.imgur.com/zh6dquW.png)
 
 
-You can now open and use the Arduino IDE- Software with e-Gizmo microcontrollers!
+You can now open and use the Arduino IDE- Software with e-Gizmo microcontrollers! :smiley:
