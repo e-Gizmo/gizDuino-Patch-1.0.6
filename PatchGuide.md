@@ -3,7 +3,7 @@
 Date Modified 080814
 
 Important notes:
- - Install first the PL2303 Driver for gizDuino boards!
+ - First install the PL2303 Driver for gizDuino boards!
  - PL2303 driver \[[here](http://www.prolific.com.tw/UserFiles/files/PL2303_Prolific_DriverInstaller_v1_12_0.zip)\]
  - Patch file for 1.0.6 and below \[[here](https://github.com/e-Gizmo/gizDuino-Patch-1.0.6/archive/master.zip)\]
  - Patch file for 1.6.9 \[[here](https://github.com/e-Gizmo/gizDuino-Patch-1.6.9/archive/master.zip)\]
