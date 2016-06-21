@@ -1,5 +1,5 @@
-# gizDuino-Patch-1.0.6
-For Any Arduino IDE  
+# e-Gizmo Patch Guide
+*For Any Arduino IDE*  
 Date Modified 080814
 
 Important notes:
@@ -23,7 +23,7 @@ Copy 'gizduino-' folder
 
 For Windows OS
 ----------
-Paste to Arduino 1.0.6 folder>harware folder>(gizduino- folder)
+Paste to Arduino folder>harware folder>(gizduino- folder)
 
 ![Imgur](http://i.imgur.com/zh6dquW.png)
 
