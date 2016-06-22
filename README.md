@@ -22,6 +22,7 @@ Important notes:
 &nbsp;&nbsp;![](http://i.imgur.com/nUuE9nR.png)
 
 ###Paste to Arduino folder>harware folder>(gizduino- folder)
+*Works for all Operating Systems!*
 
 &nbsp;&nbsp;![](http://i.imgur.com/zh6dquW.png)
 
