@@ -15,17 +15,18 @@ Important notes:
 
 Unzip Compressed folder
 
-![Imgur](http://i.imgur.com/3XeIbOo.png)
+&nbsp;&nbsp;![](http://i.imgur.com/3XeIbOo.png)
 
 Copy 'gizduino-' folder
 
-![Imgur](http://i.imgur.com/nUuE9nR.png)
+&nbsp;&nbsp;![](http://i.imgur.com/nUuE9nR.png)
 
 For Windows OS
 ----------
 Paste to Arduino folder>harware folder>(gizduino- folder)
 
-![Imgur](http://i.imgur.com/zh6dquW.png)
+&nbsp;&nbsp;![](http://i.imgur.com/zh6dquW.png)
 
 
 You can now open and use the Arduino IDE- Software with e-Gizmo microcontrollers! :smiley:
+&nbsp;&nbsp;![](http://i.imgur.com/Vnar1M1.png)
