@@ -29,4 +29,5 @@ Paste to Arduino folder>harware folder>(gizduino- folder)
 
 
 You can now open and use the Arduino IDE- Software with e-Gizmo microcontrollers! :smiley:
+
 &nbsp;&nbsp;![](http://i.imgur.com/Vnar1M1.png)
