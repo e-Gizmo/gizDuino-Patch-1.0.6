@@ -13,7 +13,7 @@ Important notes:
 
 --------
 
-Uzip Compressed folder
+Unzip Compressed folder
 
 ![Imgur](http://i.imgur.com/3XeIbOo.png)
 
